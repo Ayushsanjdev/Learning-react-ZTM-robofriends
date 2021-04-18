@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Card from './Card';
 import 'tachyons';
-import {robots} from './robots';
+import { robots } from './robots';
 
 ReactDOM.render(
   <React.StrictMode>
