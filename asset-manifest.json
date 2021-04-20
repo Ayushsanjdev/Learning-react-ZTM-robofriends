@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Learning-react-ZTM-robofriends/static/css/main.4724165d.chunk.css",
+    "main.js": "/Learning-react-ZTM-robofriends/static/js/main.e06bc4d9.chunk.js",
+    "main.js.map": "/Learning-react-ZTM-robofriends/static/js/main.e06bc4d9.chunk.js.map",
+    "runtime-main.js": "/Learning-react-ZTM-robofriends/static/js/runtime-main.61837415.js",
+    "runtime-main.js.map": "/Learning-react-ZTM-robofriends/static/js/runtime-main.61837415.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Learning-react-ZTM-robofriends/static/css/2.fe359a49.chunk.css",
+    "static/js/2.373507fc.chunk.js": "/Learning-react-ZTM-robofriends/static/js/2.373507fc.chunk.js",
+    "static/js/2.373507fc.chunk.js.map": "/Learning-react-ZTM-robofriends/static/js/2.373507fc.chunk.js.map",
+    "index.html": "/Learning-react-ZTM-robofriends/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Learning-react-ZTM-robofriends/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.4724165d.chunk.css.map": "/Learning-react-ZTM-robofriends/static/css/main.4724165d.chunk.css.map",
+    "static/js/2.373507fc.chunk.js.LICENSE.txt": "/Learning-react-ZTM-robofriends/static/js/2.373507fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61837415.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.373507fc.chunk.js",
+    "static/css/main.4724165d.chunk.css",
+    "static/js/main.e06bc4d9.chunk.js"
+  ]
+}
